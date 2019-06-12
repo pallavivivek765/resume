@@ -1,1 +1,108 @@
 # resume
+<html>
+<head>
+<style>
+body {
+  background-image: url("C:/Users/Admin/Downloads/pic.jpg");
+}
+</style>
+<title>My Personal Website</title>
+</head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body class="container">
+
+
+
+<i class="glyphicon glyphicon-thumbs-up" " style="font-size:48px;color:red"></i>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
+<body>
+<table cellspacing="20">
+ <tr>
+    <td>
+	
+
+       <img src="C:\Users\Admin\Pictures\pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
+
+
+  </td>
+  <td>
+</div>
+
+
+<h1 align="center">  PALLAVI  </h1>
+<p><em>I am pallavi, studying 5th sem computer science engg </em>at Siddaganga institute of technology,Tumkur</p>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<style>
+div{
+	border:1px solid black;
+	background-color:lightblue;
+	padding-top:50px;
+	padding-right:30px;
+	padding-bottom:50px;
+	padding-left:80px}
+
+</style>
+
+<h2 style="background-color:gray">Resume</h2>
+<div><font size="4">Personal details</font>
+<p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p><i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:red"></i>
+<h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
+<h4 style="background-color:gray">EDUCATION:</h4>
+
+<p >college:sarvodaya pre-university college</p>
+<p>Percentage:75%</p>
+<p>Currently studying at siddaganga institute of technology</p>
+<p>CGPA:7.50</p>
+
+
+<h4 style="background-color:gray"> TECHNICAL SKILLS:</h4>
+<p> C , object oriented programming and caed. </p>
+
+<h5 style="background-color:gray">WORKSHOP:</h5>
+<p>           Attended the workshop of latex. </p>
+<p>           Attended the workshop organized by Tedx. </p>
+
+<h6 style="background-color:gray">INTRESTS:</h6>
+<p>           watching online videos of programming languages.</p>
+<style>
+html { 
+  background: url("C:/Users/Admin/Downloads/pic.jpg");
+}
+  background-repeat:no-repeat center fixed; 
+  background-size: cover;
+}
+
+body { 
+  color: white; 
+}
+</style>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body class="container">
+
+
+
+<i class="glyphicon glyphicon-cloud" style="font-size:24px;"></i>
+<i class="glyphicon glyphicon-cloud" style="font-size:36px;"></i>
+<i class="glyphicon glyphicon-cloud" style="font-size:48px;color:red;"></i>
+<i class="glyphicon glyphicon-cloud" style="font-size:60px;color:red;"></i>
+
+
+
+
+</body>
+</html>
