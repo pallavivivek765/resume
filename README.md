@@ -24,15 +24,15 @@ img {
 <body>
 <table cellspacing="20">
  <tr>
-    <td>
+   <td>
 	
+       <br>
+       <img src="pallavi.jpg"alt="pictures/images.jpg" height="200" width="200">
 
-       <img src="C:\Users\Admin\Pictures\pallavi.jpg"alt="pictures\images.jpg" height="200" width="200">
 
+   </td>
+   <td>
 
-  </td>
-  <td>
-</div>
 
 
 <h1 align="center">  PALLAVI  </h1>
