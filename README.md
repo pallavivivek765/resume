@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-image: url("C:/Users/Admin/Downloads/pic.jpg");
+  background-image: url("pic.jpg");
 }
 </style>
 <title>My Personal Website</title>
@@ -77,7 +77,7 @@ div{
 <p>           watching online videos of programming languages.</p>
 <style>
 html { 
-  background: url("C:/Users/Admin/Downloads/pic.jpg");
+  background: url("pic.jpg");
 }
   background-repeat:no-repeat center fixed; 
   background-size: cover;
