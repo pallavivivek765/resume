@@ -25,13 +25,13 @@ img {
 <table cellspacing="20">
  <tr>
    <td>
-	
-       <br>
-       <img src="pallavi.jpg"alt="pictures/images.jpg" height="200" width="200">
+	<br>
+        <img src="pallavi.jpg"alt="images/pallavi.jpg" height="200" width="200">
 
 
    </td>
    <td>
+
 
 
 
