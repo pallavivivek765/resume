@@ -56,7 +56,7 @@ div{
 
 <h2 style="background-color:gray">Resume</h2>
 <div><font size="4">Personal details</font>
-<p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p><i class="glyphicon glyphicon-envelope" " style="font-size:48px;color:red"></i>
+<p>              email:pallavivivek765@gmail.com<br>phno:8861321765<br>address:Tumkur</p><i class="glyphicon glyphicon-envelope" style="font-size:48px;color:red"></i>
 <h3>             email: <a href="mailto:pallavivivek765@gmail.com">email link</a></h3></div>
 <h4 style="background-color:gray">EDUCATION:</h4>
 
