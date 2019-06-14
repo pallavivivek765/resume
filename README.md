@@ -13,11 +13,9 @@ body {
 <body class="container">
 
 
-
-<i class="glyphicon glyphicon-thumbs-up" " style="font-size:48px;color:red"></i>
 <style>
 img {
-  border-radius: 50%;
+  border-radius: 60%;
 }
 </style>
 
@@ -104,5 +102,4 @@ body {
 
 
 
-</body>
-</html>
+
