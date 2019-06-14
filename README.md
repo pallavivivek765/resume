@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-image: url("icons.jpg");
+  background-image: url("github.jpg");
 }
 </style>
 <title>My Personal Website</title>
@@ -75,7 +75,7 @@ div{
 <p>           watching online videos of programming languages.</p>
 <style>
 html { 
-  background: url("icons.jpg");
+  background: url("github.jpg");
 }
   background-repeat:no-repeat center fixed; 
   background-size: cover;
