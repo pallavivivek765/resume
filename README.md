@@ -3,13 +3,13 @@
 <head>
 <style>
 body {
-  background-image: url("gh.png");
+  background-image: url("cat.jpg");
 }
 </style>
 <title>My Personal Website</title>
 </head>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
+
 <body class="container">
 
 
@@ -75,7 +75,7 @@ div{
 <p>           watching online videos of programming languages.</p>
 <style>
 html { 
-  background: url("github.jpg");
+  background: url("cat.jpg");
 }
   background-repeat:no-repeat center fixed; 
   background-size: cover;
